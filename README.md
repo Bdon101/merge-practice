@@ -1,5 +1,5 @@
 # merge-practice
 
 We made this to practice merging!
-You are monkey.
+kasey is monkey strapped to a tree.
 bdon is monkey on a scooot
